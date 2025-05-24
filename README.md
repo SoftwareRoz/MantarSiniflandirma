@@ -39,5 +39,6 @@ Model, mantar sınıflandırmasında etkili ve hızlı kararlar verebilmektedir.
 - **Rozerin Zor**  
 - 📧 [rozerinzor2@gmail.com]
 
----
+---![mantarsınıflandırma](https://github.com/user-attachments/assets/825acf90-d268-48dc-8369-a9d9e356acde)
+
 
